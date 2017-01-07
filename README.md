@@ -17,7 +17,7 @@ This file contains details on the final tidy data set.
 
 ### <b>Text Files</b> 
 The following text files were included with the data sets in the zip folder.  They explain the original analysis and the variables used in the initial data sets. 
-<ol>
+
 * <b>README.txt</b>: Documents the analysis that was performed </li>
 * <b>features_info.txt</b>: Describes the measurements in more detail and the variables used </li>
 
