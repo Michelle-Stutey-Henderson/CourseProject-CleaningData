@@ -4,7 +4,7 @@ The goal of the project was to create a tidy data set from a test and train set 
 
 For details on the raw data, refer to the following text files:  README.txt, features_info.txt
 
-# <b>Tidy data set</b> 
+### <b>Tidy data set</b> 
 The tidy data set displays the average mean and standard deviation across each variable, activity and subject.  Below are the column names, a brief description of the variables and their values.
   
 * <b>Activity</b> Factor variable with 6 levels: Laying, Sitting, Standing, Walking, Walking_Downstairs, Walking_Upstairs
